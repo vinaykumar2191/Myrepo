@@ -1,0 +1,16 @@
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\dao\SellerDAO.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\dao\ProductDAO.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\dao\UserDAO.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\util\DatabaseConnection.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\entity\Seller.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\service\UserService.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\entity\User.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\service\SellerService.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\controller\LoginControl.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\dto\UserDTO.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\controller\RegistrationControl.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\controller\SellerControl.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\exception\UserNotFound.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\entity\Product.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\dto\SellerDTO.java
+C:\Users\batha\eclipse-workspace-ee\RevShop\src\main\java\service\ProductService.java
